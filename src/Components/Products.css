@@ -1,0 +1,25 @@
+.card{
+    position: relative;
+}
+.hot {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: orange;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 4px;
+    color: white;
+    padding: 5px 12px;
+}
+.new{
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: greenyellow;
+    font-size: 18px;
+    font-weight: 700;
+    border-radius: 4px;
+    color: gray;
+    padding: 5px 6px;
+}
